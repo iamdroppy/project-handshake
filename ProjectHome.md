@@ -1,0 +1,1 @@
+Project HELLO is called what it is due to the fact that the packets used for the protocol where no more then simple uppercase characters along with a char(13) that would say a new line.
